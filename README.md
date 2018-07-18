@@ -11,4 +11,4 @@ $ vagrant up
 Acesso:
   url :http://192.168.77.200:8200/ui/vault/auth
 
-![vault]: https://github.com/clodonil/vault_administrator/blob/master/vault.PNG "Login do Vault"
+![vault]:(https://github.com/clodonil/vault_administrator/blob/master/vault.PNG)
